@@ -6,10 +6,6 @@ import android.os.Build;
 import android.util.AttributeSet;
 import android.widget.RelativeLayout;
 
-/**
- * Created by Lenovo Desktop on 7/17/2017.
- */
-
 class SquareLayout extends RelativeLayout {
 
     public SquareLayout(Context context) {
