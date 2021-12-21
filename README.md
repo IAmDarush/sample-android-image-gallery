@@ -1,4 +1,4 @@
-# my-android-image-gallery
+# sample-android-image-gallery
 A simple image gallery app using Glide library
 
 ![Image](../master/app/src/main/assets/screenshot1.gif)
